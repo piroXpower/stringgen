@@ -4,9 +4,9 @@ from pyrogram.types import Message
 from pyrogram.errors import SessionPasswordNeeded, PhoneCodeInvalid, PhoneCodeExpired
 
 # --- CONFIGURATION ---
-API_ID = 1234567  # Your API ID
-API_HASH = "your_api_hash"
-BOT_TOKEN = "your_bot_token"
+API_ID = 3898418  # Your API ID
+API_HASH = "5a82313211da04d63297bd4de436228c"
+BOT_TOKEN = "8795837191:AAHYYeWd861nsdLyxvziHwXwVoLWFgA5_-8"
 
 bot = Client("StringGenBot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
